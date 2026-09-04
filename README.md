@@ -1,5 +1,6 @@
-<h1 align="center">Ayana Ussenbayeva</h1>
-<h3 align="center">Computer Science Graduate — Machine Learning & NLP</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2b3137&height=180&section=header&text=Ayana%20Ussenbayeva&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Machine%20Learning%20%26%20NLP&descAlignY=58&descSize=18" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayana-ussenbayeva-49609a348/">
@@ -8,66 +9,114 @@
   <a href="mailto:ayannnna31@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/ayanaussenbayeva">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <br/>
 
 ## Summary
 
-Computer Science graduate (Astana IT University) specializing in Natural Language Processing and Machine Learning. Research focus on multilingual and code-switching text — building Named Entity Recognition systems for Kazakh–Russian data using transformer and LLM-based approaches. Co-author of a paper accepted to IEEE SIST 2026. Comfortable working end-to-end: data collection and annotation, model training and evaluation, and shipping results as usable applications.
+Computer Science graduate (Astana IT University) working at the intersection of Natural Language Processing and Machine Learning. My research centers on low-resource, mixed-language text — building Named Entity Recognition systems for Kazakh–Russian data with transformer and LLM-based methods. Co-author of a paper accepted to IEEE SIST 2026. I work across the full pipeline: collecting and annotating data, training and evaluating models, and turning results into applications people can actually use.
 
-<br/>
+---
 
 ## Core Skills
 
-| Area | Skills |
-|---|---|
-| Languages | Python, C#, JavaScript, SQL |
-| ML / Data | NumPy, pandas, scikit-learn, Google Colab |
-| NLP / LLM | XLM-RoBERTa, BERT, RoBERTa, mT5, Qwen2.5, Ollama |
-| Databases | PostgreSQL, MongoDB |
-| Tools | Git, GitHub, Unity, HTML/CSS |
+<table>
+<tr><td><b>Languages</b></td><td>Python · C# · JavaScript · SQL</td></tr>
+<tr><td><b>ML & Data</b></td><td>NumPy · pandas · scikit-learn · Google Colab</td></tr>
+<tr><td><b>NLP & LLMs</b></td><td>XLM-RoBERTa · BERT · RoBERTa · mT5 · Qwen2.5 · Ollama</td></tr>
+<tr><td><b>Databases</b></td><td>PostgreSQL · MongoDB</td></tr>
+<tr><td><b>Tools</b></td><td>Git · GitHub · Unity · HTML/CSS</td></tr>
+</table>
 
-<br/>
+---
 
-## Featured Projects
+## Featured Work
 
-### Automatic Geotag Recognition in Textual Data
-Bachelor's research project: a Named Entity Recognition system that identifies location-related entities (routes, bus IDs, stops, streets, intersections) in Kazakh–Russian transportation complaints — a low-resource, code-switching setting.
-- Compared multilingual transformer models (XLM-RoBERTa, mT5) against few-shot inference with Qwen2.5 via Ollama
-- Findings contributed to a paper accepted at IEEE SIST 2026
-- **Stack:** Python, XLM-RoBERTa, mT5, Qwen2.5, Ollama, scikit-learn
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### [Chatbot Project](https://github.com/ayanaussenbayeva/chatbot-project)
-Conversational system exploring intent recognition and query handling.
-- **Stack:** Python, NLP
+**Automatic Geotag Recognition**
+NER system that locates entities — routes, bus IDs, stops, intersections — in transportation complaints written in a mixed-language, low-resource setting.
+Compared multilingual transformers against few-shot LLM inference; results informed a paper accepted at IEEE SIST 2026.
 
-### [City Dashboard](https://github.com/ayanaussenbayeva/City-Dashboard)
-Interactive web application for visualizing and exploring city-related data.
-- **Stack:** JavaScript, HTML, CSS
+</td>
+<td width="40%" valign="top">
 
-### Game Development
-2D/3D game projects covering gameplay programming, mechanics, and interactive environments.
-- **Stack:** C#, Unity
+`XLM-RoBERTa`
+`mT5`
+`Qwen2.5`
+`Ollama`
 
-<br/>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="60%" valign="top">
+
+**[Chatbot Project](https://github.com/ayanaussenbayeva/chatbot-project)**
+Conversational system handling intent recognition and query routing.
+
+</td>
+<td width="40%" valign="top">
+
+`Python`
+`NLP`
+
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="60%" valign="top">
+
+**[City Dashboard](https://github.com/ayanaussenbayeva/City-Dashboard)**
+Web app for visualizing and exploring city-level data interactively.
+
+</td>
+<td width="40%" valign="top">
+
+`JavaScript`
+`HTML/CSS`
+
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="60%" valign="top">
+
+**Game Development**
+2D/3D prototypes covering gameplay logic and interactive mechanics.
+
+</td>
+<td width="40%" valign="top">
+
+`C#`
+`Unity`
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Publication
 
-**Machine Learning for Automatic Geotag Recognition** — co-author, accepted to IEEE SIST 2026.
-Research on Named Entity Recognition for Kazakh–Russian code-switching text, using multilingual transformers and few-shot LLM inference on a real-world transportation-complaints dataset.
+**Machine Learning for Automatic Geotag Recognition**
+Co-author, accepted to IEEE SIST 2026 — Named Entity Recognition for Kazakh–Russian code-switching text on a real-world transportation dataset.
 
-<br/>
+---
 
 ## Education
 
-**B.Sc. in Computer Science** — Astana IT University
+**B.Sc. in Computer Science**, Astana IT University
 
-<br/>
+---
 
-## Contact
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/ayanaussenbayeva"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ayana-ussenbayeva-49609a348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
