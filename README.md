@@ -1,63 +1,137 @@
 # Ayana Ussenbayeva
 
-## Computer Science · AI/ML · AITU, Astana
+### Computer Science | Artificial Intelligence | Machine Learning
 
-building things with machine learning, NLP and intelligent systems
+I am a Computer Science graduate from Astana IT University with a strong
+interest in Artificial Intelligence, Machine Learning and Natural Language
+Processing.
 
----
-
-## projects
-
-> то, над чем работаю и чем хочу заниматься дальше:
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Geotag Recognition](YOUR_REPO_LINK) | NER-система для автоматического распознавания географических сущностей в казахско-русских текстах | Python · XLM-RoBERTa · Qwen2.5 · NLP |
-| [Chatbot Project](https://github.com/ayanaussenbayeva/chatbot-project) | Проект с реализацией чат-бота и обработкой пользовательских запросов | Python · NLP |
-| [City Dashboard](https://github.com/ayanaussenbayeva/City-Dashboard) | Интерактивный веб-дашборд для работы с городскими данными | JavaScript · HTML · CSS |
-| [Assignment Chatbot](https://github.com/ayanaussenbayeva/assignment2_chatbot) | Учебный проект по разработке conversational system | Python |
-| [Game Development](YOUR_REPO_LINK) | 2D/3D game projects developed with Unity | C# · Unity |
-
-Дело не в количестве репозиториев — а в том, что каждый проект показывает конкретный навык и способ решения задачи.
+My main interests are multilingual NLP, language models and building
+machine learning systems that can work with real-world data.
 
 ---
 
-## research
+## About
 
-**Automatic Geotag Recognition in Textual Data**
+- Bachelor's degree in Computer Science
+- Interested in Artificial Intelligence and Machine Learning
+- Experience with NLP, Named Entity Recognition and Large Language Models
+- Worked with Kazakh-Russian code-switching text
+- Co-author of a paper accepted to IEEE SIST 2026
+- Interested in research and further development in AI/ML
 
-Bachelor's research project focused on Named Entity Recognition for
+---
+
+## Selected Projects
+
+### Automatic Geotag Recognition in Textual Data
+
+A machine learning research project focused on recognizing location-related
+entities in Kazakh-Russian transportation complaints.
+
+The project explores multilingual transformer models and few-shot LLM
+approaches for Named Entity Recognition.
+
+**Technologies:** Python, XLM-RoBERTa, mT5, Qwen2.5, Ollama, scikit-learn
+
+---
+
+### Chatbot Projects
+
+Several projects focused on conversational systems, NLP and interaction
+with user queries.
+
+**Technologies:** Python, NLP, Machine Learning
+
+---
+
+### City Dashboard
+
+An interactive web application for presenting and working with city-related
+data.
+
+**Technologies:** JavaScript, HTML, CSS
+
+---
+
+### Game Development
+
+Developed 2D and 3D game projects while exploring gameplay programming,
+game mechanics and interactive environments.
+
+**Technologies:** C#, Unity
+
+---
+
+## Research
+
+### Machine Learning for Automatic Geotag Recognition
+
+My bachelor's research focuses on Named Entity Recognition for
 Kazakh-Russian code-switching text.
 
-Exploring multilingual transformers, LLMs and few-shot approaches for
-recognizing transport-related geographic entities.
+The dataset contains transportation complaints with location-related
+entities such as routes, bus IDs, stops, streets and intersections.
 
-`XLM-RoBERTa` · `ruBERT` · `mT5` · `Qwen2.5` · `Ollama`
+I experimented with multilingual transformers, language models and
+few-shot LLM inference.
 
-**IEEE SIST 2026** — co-author of a research paper.
+**Research areas**
+
+`Machine Learning` `NLP` `NER` `Transformers` `LLMs`
+`Multilingual AI`
+
+**Publication**
+
+Co-author of a paper accepted to **IEEE SIST 2026**.
 
 ---
 
-## github stats
+## Technologies
+
+**Languages**
+
+Python · C# · JavaScript · SQL
+
+**Machine Learning & Data**
+
+NumPy · pandas · scikit-learn · Google Colab
+
+**NLP & LLM**
+
+XLM-RoBERTa · BERT · RoBERTa · mT5 · Qwen2.5 · Ollama
+
+**Databases**
+
+PostgreSQL · MongoDB
+
+**Development**
+
+Git · GitHub · Unity · HTML · CSS
+
+---
+
+## What I'm Exploring
+
+Artificial Intelligence  
+Machine Learning  
+Natural Language Processing  
+Large Language Models  
+Multilingual AI  
+Research in intelligent systems
+
+---
+
+## GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanaussenbayeva&show_icons=true&hide_border=true&rank_icon=github)
 
----
-
-## currently
-
-working on machine learning and NLP projects
-
-exploring LLMs and multilingual language models
-
-developing my research direction in AI/ML
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaussenbayeva&layout=compact&hide_border=true)
 
 ---
 
-## find me around
+## Contact
 
- Computer Science · Astana IT University
+GitHub: [ayanaussenbayeva](https://github.com/ayanaussenbayeva)
 
- github.com/ayanaussenbayeva
-
-[LinkedIn](https://www.linkedin.com/in/ayana-ussenbayeva-49609a348/)
+LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ayana-ussenbayeva-49609a348/)
