@@ -1,137 +1,124 @@
-# Ayana Ussenbayeva
+<h1 align="center">Hi, I'm Ayana Ussenbayeva 👋</h1>
+<h3 align="center">Computer Science graduate · AI / ML / NLP enthusiast</h3>
 
-### Computer Science | Artificial Intelligence | Machine Learning
-
-I am a Computer Science graduate from Astana IT University with a strong
-interest in Artificial Intelligence, Machine Learning and Natural Language
-Processing.
-
-My main interests are multilingual NLP, language models and building
-machine learning systems that can work with real-world data.
-
----
-
-## About
-
-- Bachelor's degree in Computer Science
-- Interested in Artificial Intelligence and Machine Learning
-- Experience with NLP, Named Entity Recognition and Large Language Models
-- Worked with Kazakh-Russian code-switching text
-- Co-author of a paper accepted to IEEE SIST 2026
-- Interested in research and further development in AI/ML
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayana-ussenbayeva-49609a348/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Selected Projects
+### 🎓 About Me
 
-### Automatic Geotag Recognition in Textual Data
+I'm a **Computer Science graduate from Astana IT University**, focused on **Artificial Intelligence, Machine Learning and Natural Language Processing**.
 
-A machine learning research project focused on recognizing location-related
-entities in Kazakh-Russian transportation complaints.
-
-The project explores multilingual transformer models and few-shot LLM
-approaches for Named Entity Recognition.
-
-**Technologies:** Python, XLM-RoBERTa, mT5, Qwen2.5, Ollama, scikit-learn
+- 🔭 Currently exploring **multilingual NLP**, **language models** and ML systems that work with real, messy, real-world data
+- 🧠 Experience with **NER**, **transformers** and **LLMs**, including work on **Kazakh–Russian code-switching text**
+- 📄 Co-author of a paper accepted to **IEEE SIST 2026**
+- 🌱 Interested in continuing research in AI/ML
+- 💬 Ask me about NLP, transformer models, or building ML pipelines from scratch
 
 ---
 
-### Chatbot Projects
+### 🚀 Selected Projects
 
-Several projects focused on conversational systems, NLP and interaction
-with user queries.
+<table>
+<tr>
+<td width="50%">
 
-**Technologies:** Python, NLP, Machine Learning
+**🗺️ Automatic Geotag Recognition in Textual Data**
+Research project on recognizing location entities (routes, bus IDs, stops, streets) in Kazakh–Russian transportation complaints, using multilingual transformers and few-shot LLM approaches.
+`Python` `XLM-RoBERTa` `mT5` `Qwen2.5` `Ollama` `scikit-learn`
 
----
+</td>
+<td width="50%">
 
-### City Dashboard
+**💬 Chatbot Projects**
+A series of conversational-system projects exploring NLP pipelines, intent handling and user-query interaction.
+`Python` `NLP` `Machine Learning`
 
-An interactive web application for presenting and working with city-related
-data.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Technologies:** JavaScript, HTML, CSS
+**🏙️ City Dashboard**
+An interactive web app for visualizing and exploring city-related data.
+`JavaScript` `HTML` `CSS`
 
----
+</td>
+<td width="50%">
 
-### Game Development
+**🎮 Game Development**
+2D/3D game projects exploring gameplay programming and interactive environments.
+`C#` `Unity`
 
-Developed 2D and 3D game projects while exploring gameplay programming,
-game mechanics and interactive environments.
-
-**Technologies:** C#, Unity
-
----
-
-## Research
-
-### Machine Learning for Automatic Geotag Recognition
-
-My bachelor's research focuses on Named Entity Recognition for
-Kazakh-Russian code-switching text.
-
-The dataset contains transportation complaints with location-related
-entities such as routes, bus IDs, stops, streets and intersections.
-
-I experimented with multilingual transformers, language models and
-few-shot LLM inference.
-
-**Research areas**
-
-`Machine Learning` `NLP` `NER` `Transformers` `LLMs`
-`Multilingual AI`
-
-**Publication**
-
-Co-author of a paper accepted to **IEEE SIST 2026**.
+</td>
+</tr>
+</table>
 
 ---
 
-## Technologies
+### 🔬 Research
 
-**Languages**
+**Machine Learning for Automatic Geotag Recognition**
 
-Python · C# · JavaScript · SQL
+My bachelor's thesis focuses on Named Entity Recognition for Kazakh–Russian code-switching text. The dataset consists of transportation complaints containing location-related entities — routes, bus IDs, stops, streets and intersections. I experimented with multilingual transformer models, language models and few-shot LLM inference.
 
-**Machine Learning & Data**
+`Machine Learning` `NLP` `NER` `Transformers` `LLMs` `Multilingual AI`
 
-NumPy · pandas · scikit-learn · Google Colab
-
-**NLP & LLM**
-
-XLM-RoBERTa · BERT · RoBERTa · mT5 · Qwen2.5 · Ollama
-
-**Databases**
-
-PostgreSQL · MongoDB
-
-**Development**
-
-Git · GitHub · Unity · HTML · CSS
+📄 Co-author of a paper accepted to **IEEE SIST 2026**
 
 ---
 
-## What I'm Exploring
+### 🛠️ Tech Stack
 
-Artificial Intelligence  
-Machine Learning  
-Natural Language Processing  
-Large Language Models  
-Multilingual AI  
-Research in intelligent systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+</p>
+
+**NLP / LLM models used:** XLM-RoBERTa · BERT · RoBERTa · mT5 · Qwen2.5 · Ollama
 
 ---
 
-## GitHub
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanaussenbayeva&show_icons=true&hide_border=true&rank_icon=github)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayanaussenbayeva&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaussenbayeva&layout=compact&hide_border=true&theme=default" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaussenbayeva&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanaussenbayeva&hide_border=true&theme=default" />
+</p>
 
 ---
 
-## Contact
+### 📫 Contact
 
-GitHub: [ayanaussenbayeva](https://github.com/ayanaussenbayeva)
+<p align="left">
+  <a href="https://github.com/ayanaussenbayeva"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayana-ussenbayeva-49609a348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ayana-ussenbayeva-49609a348/)
+<p align="center"><i>Thanks for stopping by! ⭐️ Feel free to explore my repositories below.</i></p>
