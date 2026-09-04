@@ -1,5 +1,5 @@
 <h1 align="center">Ayana Ussenbayeva</h1>
-<h3 align="center">Computer Science Graduate — AI / ML / NLP</h3>
+<h3 align="center">Computer Science Graduate — Machine Learning & NLP</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayana-ussenbayeva-49609a348/">
@@ -12,84 +12,56 @@
 
 <br/>
 
-## About
+## Summary
 
-Computer Science graduate from Astana IT University, focused on Artificial Intelligence, Machine Learning and Natural Language Processing.
-
-- Multilingual NLP, language models and ML systems built for real-world data
-- Experience with Named Entity Recognition, transformers and LLMs, including work on Kazakh–Russian code-switching text
-- Co-author of a paper accepted to IEEE SIST 2026
-- Continuing to pursue research in AI/ML
+Computer Science graduate (Astana IT University) specializing in Natural Language Processing and Machine Learning. Research focus on multilingual and code-switching text — building Named Entity Recognition systems for Kazakh–Russian data using transformer and LLM-based approaches. Co-author of a paper accepted to IEEE SIST 2026. Comfortable working end-to-end: data collection and annotation, model training and evaluation, and shipping results as usable applications.
 
 <br/>
 
-## Selected Projects
+## Core Skills
 
-**Automatic Geotag Recognition in Textual Data**
-Research project on recognizing location entities (routes, bus IDs, stops, streets) in Kazakh–Russian transportation complaints, using multilingual transformers and few-shot LLM approaches.
-`Python` `XLM-RoBERTa` `mT5` `Qwen2.5` `Ollama` `scikit-learn`
-
-**Chatbot Projects**
-A series of conversational-system projects exploring NLP pipelines, intent handling and user-query interaction.
-`Python` `NLP` `Machine Learning`
-
-**City Dashboard**
-An interactive web application for visualizing and exploring city-related data.
-`JavaScript` `HTML` `CSS`
-
-**Game Development**
-2D/3D game projects exploring gameplay programming and interactive environments.
-`C#` `Unity`
+| Area | Skills |
+|---|---|
+| Languages | Python, C#, JavaScript, SQL |
+| ML / Data | NumPy, pandas, scikit-learn, Google Colab |
+| NLP / LLM | XLM-RoBERTa, BERT, RoBERTa, mT5, Qwen2.5, Ollama |
+| Databases | PostgreSQL, MongoDB |
+| Tools | Git, GitHub, Unity, HTML/CSS |
 
 <br/>
 
-## Research
+## Featured Projects
 
-**Machine Learning for Automatic Geotag Recognition**
+### Automatic Geotag Recognition in Textual Data
+Bachelor's research project: a Named Entity Recognition system that identifies location-related entities (routes, bus IDs, stops, streets, intersections) in Kazakh–Russian transportation complaints — a low-resource, code-switching setting.
+- Compared multilingual transformer models (XLM-RoBERTa, mT5) against few-shot inference with Qwen2.5 via Ollama
+- Findings contributed to a paper accepted at IEEE SIST 2026
+- **Stack:** Python, XLM-RoBERTa, mT5, Qwen2.5, Ollama, scikit-learn
 
-Bachelor's thesis on Named Entity Recognition for Kazakh–Russian code-switching text. The dataset consists of transportation complaints containing location-related entities — routes, bus IDs, stops, streets and intersections. Work involved multilingual transformer models, language models and few-shot LLM inference.
+### [Chatbot Project](https://github.com/ayanaussenbayeva/chatbot-project)
+Conversational system exploring intent recognition and query handling.
+- **Stack:** Python, NLP
 
-`Machine Learning` `NLP` `NER` `Transformers` `LLMs` `Multilingual AI`
+### [City Dashboard](https://github.com/ayanaussenbayeva/City-Dashboard)
+Interactive web application for visualizing and exploring city-related data.
+- **Stack:** JavaScript, HTML, CSS
 
-Co-author of a paper accepted to IEEE SIST 2026.
-
-<br/>
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-</p>
-
-NLP / LLM models used: XLM-RoBERTa, BERT, RoBERTa, mT5, Qwen2.5, Ollama
+### Game Development
+2D/3D game projects covering gameplay programming, mechanics, and interactive environments.
+- **Stack:** C#, Unity
 
 <br/>
 
-## GitHub Stats
+## Publication
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayanaussenbayeva&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaussenbayeva&layout=compact&hide_border=true&theme=default" />
-</p>
+**Machine Learning for Automatic Geotag Recognition** — co-author, accepted to IEEE SIST 2026.
+Research on Named Entity Recognition for Kazakh–Russian code-switching text, using multilingual transformers and few-shot LLM inference on a real-world transportation-complaints dataset.
+
+<br/>
+
+## Education
+
+**B.Sc. in Computer Science** — Astana IT University
 
 <br/>
 
